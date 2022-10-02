@@ -1,3 +1,9 @@
 first file line 1
 commit before dev 2
+<<<<<<< HEAD
 dev 2 made another change
+=======
+
+
+dev 1 made another change
+>>>>>>> 3cb06231c0994fe4b8768d573f270fefa5df2c4b
